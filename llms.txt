@@ -1,0 +1,38 @@
+# Synlig14
+
+> Nettsider for små bedrifter i Norge på 14 dager, til fast pris, på norsk og spansk. Synlig14 er en del av ML Digital.
+
+## Norsk
+
+- [Hjem](https://synlig14.pages.dev/): Ny nettside på 14 dager til fast pris
+- [Pakker og priser](https://synlig14.pages.dev/pakker/): Liten, Synlig 14, Abonnement, Vedlikehold
+- [Klar for AI-søk](https://synlig14.pages.dev/klar-for-ai-sok/): Grunnmur for Google og AI-tjenester
+- [Slik foregår det](https://synlig14.pages.dev/slik-foregar-det/): 14-dagers tidslinje
+- [Eksempler](https://synlig14.pages.dev/eksempler/): Egne nettsider
+- [Kontakt](https://synlig14.pages.dev/kontakt/): Gratis samtale og om meg
+- [Personvern](https://synlig14.pages.dev/personvern/): Personvernerklæring
+
+## Español
+
+- [Inicio](https://synlig14.pages.dev/es/): Nueva web en 14 días a precio fijo
+- [Paquetes y precios](https://synlig14.pages.dev/es/paquetes/): Liten, Synlig 14, Abonnement, Vedlikehold
+- [Lista para la búsqueda con IA](https://synlig14.pages.dev/es/lista-para-busqueda-con-ia/): Base para Google y servicios de IA
+- [Cómo funciona](https://synlig14.pages.dev/es/como-funciona/): Línea de tiempo de 14 días
+- [Ejemplos](https://synlig14.pages.dev/es/ejemplos/): Webs propias
+- [Contacto](https://synlig14.pages.dev/es/contacto/): Llamada gratis y sobre mí
+- [Privacidad](https://synlig14.pages.dev/es/privacidad/): Política de privacidad
+
+## Godkjente priser (eks. mva.)
+
+- Synlig 14: 14 900 kr engangspris
+- Vedlikehold: 490 kr/mnd
+
+## Kontakt
+
+- E-post: willynoslo17@gmail.com
+- Telefon: +47 912 90 416
+- Adresse: Norbygata 19, 0187 Oslo, Norge
+- Org.nr.: 935 407 095 MVA
+- Juridisk navn: MARTINEZ LOZANO INTERNASJONAL HANDEL
+
+# TODO Willy: añadir Liten, Abonnement y AI-synlighetssjekk cuando se aprueben
