@@ -38,8 +38,7 @@
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="logo" href="/es/">Synlig<span>14</span></a>
-      <details class="nav-panel">
-        <summary class="nav-toggle">Menú</summary>
+      <nav class="nav-desktop" aria-label="Navegación principal">
         <ul class="nav-list">
           <li><a href="/es/paquetes/">Paquetes y precios</a></li>
           <li><a href="/es/lista-para-busqueda-con-ia/">Lista para la búsqueda con IA</a></li>
@@ -53,6 +52,24 @@
             <a href="/es/ejemplos/" aria-current="page">ES</a>
           </li>
         </ul>
+      </nav>
+      <details class="nav-mobile">
+        <summary class="nav-toggle">Menú</summary>
+        <nav aria-label="Navegación principal">
+                    <ul class="nav-list">
+            <li><a href="/es/paquetes/">Paquetes y precios</a></li>
+            <li><a href="/es/lista-para-busqueda-con-ia/">Lista para la búsqueda con IA</a></li>
+            <li><a href="/es/como-funciona/">Cómo funciona</a></li>
+            <li><a href="/es/ejemplos/" aria-current="page">Ejemplos</a></li>
+            <li><a href="/es/contacto/#sobre-mi">Sobre mí</a></li>
+            <li class="nav-cta"><a class="btn" href="/es/contacto/">Contacto</a></li>
+            <li class="lang" aria-label="Idioma">
+            <a href="/eksempler/">NO</a>
+            <span aria-hidden="true">|</span>
+            <a href="/es/ejemplos/" aria-current="page">ES</a>
+            </li>
+          </ul>
+        </nav>
       </details>
     </div>
   </header>
@@ -68,19 +85,18 @@
           <a class="btn" href="/es/contacto/">Reservar una llamada gratis</a>
         </div>
 
-        <!-- TODO Willy: captura real de willymartinez.no en WebP 1200x750. -->
-        <figure class="example" style="margin-top:2rem;max-width:40rem;">
-          <img src="/img/eksempler/willymartinez.webp" width="1200" height="750" alt="Marcador de posición de captura de willymartinez.no" loading="lazy">
+        <figure class="example example-featured">
+          <img src="/img/eksempler/willymartinez.webp" width="1200" height="750" alt="Captura de la portada de willymartinez.no" loading="lazy">
           <figcaption>
             <span class="tag">Egen nettside</span>
-            <h2 class="mt-0" style="font-size:1.2rem;"><a href="https://willymartinez.no">willymartinez.no</a></h2>
+            <h2 class="mt-0 example-title"><a href="https://willymartinez.no">willymartinez.no</a></h2>
             <p class="muted mb-0">Web personal y entrada a servicios de asesoría.</p>
           </figcaption>
         </figure>
 
         <!-- TODO Willy: añadir solo webs reales hechas por ti, con enlace y captura propia. Nada de webs de clientes sin su permiso escrito. -->
         <!--
-        <div class="grid-3" style="margin-top:2rem;">
+        <div class="grid-3 grid-3-spaced">
           <figure class="example">
             <img src="/img/eksempler/placeholder-2.webp" width="1200" height="750" alt="" loading="lazy">
             <figcaption>

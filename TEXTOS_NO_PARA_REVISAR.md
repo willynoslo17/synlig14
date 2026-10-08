@@ -50,7 +50,7 @@
 ### Pakker
 - Liten: 9 900 kr engangspris – Landingsside på 1 side på norsk og spansk. Se Liten →
 - Synlig 14: 14 900 kr engangspris · levert på 14 dager – Inntil 5 sider, Google Business-profil og grunnmur for AI-søk. Se Synlig 14 →
-- Abonnement: 2 990 + 1 990 kr/mnd oppstart + månedlig – Synlig 14 betalt månedlig, med hosting og små endringer. Se Abonnement →
+- Abonnement: 2 990 kr i oppstart + 1 990 kr/mnd – Synlig 14 betalt månedlig, med hosting og små endringer. Se Abonnement →
 - Vil du at jeg passer på siden etterpå? Vedlikehold 490 kr/mnd →
 - Har du allerede nettside? Ta en AI-synlighetssjekk →
 
@@ -95,7 +95,7 @@ CTA: Bestill en gratis samtale
 Etikett: Anbefalt for de fleste  
 Dette får du: Inntil 5 sider på norsk og spansk; Oppsett av Google Business-profil; Enkel chatbot; Grunnmur for AI-søk; Sporing med samtykke (cookie-banner); Oppsett av 1 første annonsekampanje (annonsebudsjett betales av kunden).
 
-### Abonnement – 2 990 kr + 1 990 kr/mnd
+### Abonnement – 2 990 kr i oppstart + 1 990 kr/mnd
 Avtaleperiode 12 måneder.  
 Dette får du: Synlig 14 betalt månedlig; Hosting inkludert; Små endringer inkludert.
 
@@ -199,11 +199,11 @@ Ingen kan love at ChatGPT, Gemini eller Google nevner bedriften din. Det jeg kan
 **Title:** Eksempler – Synlig14  
 **Meta description:** Eksempler på nettsider laget av Willy Edison Martínez Lozano. Synlig14 er nytt – her er egne nettsider.
 
-**H1:** Egen nettside – ærlig start  
+**H1:** Egne nettsider  
 **Lead:** Synlig14 er nytt. Her er nettsider jeg har laget selv.  
 **Tekst:** Vil du se mer? Jeg viser gjerne fram arbeidet mitt i en gratis samtale.  
 **Tag:** Egen nettside  
-**Alt (placeholder):** Skjermbilde-placeholder av willymartinez.no  
+**Alt:** Skjermbilde av forsiden til willymartinez.no  
 **Bildetekst:** Personlig side og inngang til rådgivningstjenester.
 
 ---
@@ -277,7 +277,7 @@ Seksjoner: Behandlingsansvarlig · Hvilke opplysninger samles inn · Formål og 
 - Eksempler: Egne nettsider
 - Kontakt: Gratis samtale og om meg
 - Personvern: Personvernerklæring
-- Godkjente priser: Synlig 14 14 900 kr engangspris · Vedlikehold 490 kr/mnd
+- Priser (eks. mva.): Synlig 14 14 900 kr engangspris · Vedlikehold 490 kr/mnd
 
 ---
 

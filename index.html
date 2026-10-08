@@ -90,8 +90,7 @@
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="logo" href="/">Synlig<span>14</span></a>
-      <details class="nav-panel">
-        <summary class="nav-toggle">Meny</summary>
+      <nav class="nav-desktop" aria-label="Hovednavigasjon">
         <ul class="nav-list">
           <li><a href="/pakker/">Pakker og priser</a></li>
           <li><a href="/klar-for-ai-sok/">Klar for AI-søk</a></li>
@@ -105,6 +104,24 @@
             <a href="/es/">ES</a>
           </li>
         </ul>
+      </nav>
+      <details class="nav-mobile">
+        <summary class="nav-toggle">Meny</summary>
+        <nav aria-label="Hovednavigasjon">
+                    <ul class="nav-list">
+            <li><a href="/pakker/">Pakker og priser</a></li>
+            <li><a href="/klar-for-ai-sok/">Klar for AI-søk</a></li>
+            <li><a href="/slik-foregar-det/">Slik foregår det</a></li>
+            <li><a href="/eksempler/">Eksempler</a></li>
+            <li><a href="/kontakt/#om-meg">Om meg</a></li>
+            <li class="nav-cta"><a class="btn" href="/kontakt/">Kontakt</a></li>
+            <li class="lang" aria-label="Språk">
+            <a href="/" aria-current="page">NO</a>
+            <span aria-hidden="true">|</span>
+            <a href="/es/">ES</a>
+            </li>
+          </ul>
+        </nav>
       </details>
     </div>
   </header>
@@ -180,7 +197,7 @@
           <!-- TODO Willy: precio PROPUESTO, no aprobado. Confírmalo antes de publicar. -->
           <div class="card">
             <h3>Abonnement</h3>
-            <p class="price">2 990 + 1 990 kr/mnd <small>oppstart + månedlig</small></p>
+            <p class="price">2 990 kr i oppstart + 1 990 kr/mnd</p>
             <p class="muted">Synlig 14 betalt månedlig, med hosting og små endringer.</p>
             <a href="/pakker/#abonnement">Se Abonnement →</a>
           </div>

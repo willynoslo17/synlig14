@@ -38,8 +38,7 @@
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="logo" href="/">Synlig<span>14</span></a>
-      <details class="nav-panel">
-        <summary class="nav-toggle">Meny</summary>
+      <nav class="nav-desktop" aria-label="Hovednavigasjon">
         <ul class="nav-list">
           <li><a href="/pakker/">Pakker og priser</a></li>
           <li><a href="/klar-for-ai-sok/">Klar for AI-søk</a></li>
@@ -53,6 +52,24 @@
             <a href="/es/ejemplos/">ES</a>
           </li>
         </ul>
+      </nav>
+      <details class="nav-mobile">
+        <summary class="nav-toggle">Meny</summary>
+        <nav aria-label="Hovednavigasjon">
+                    <ul class="nav-list">
+            <li><a href="/pakker/">Pakker og priser</a></li>
+            <li><a href="/klar-for-ai-sok/">Klar for AI-søk</a></li>
+            <li><a href="/slik-foregar-det/">Slik foregår det</a></li>
+            <li><a href="/eksempler/" aria-current="page">Eksempler</a></li>
+            <li><a href="/kontakt/#om-meg">Om meg</a></li>
+            <li class="nav-cta"><a class="btn" href="/kontakt/">Kontakt</a></li>
+            <li class="lang" aria-label="Språk">
+            <a href="/eksempler/" aria-current="page">NO</a>
+            <span aria-hidden="true">|</span>
+            <a href="/es/ejemplos/">ES</a>
+            </li>
+          </ul>
+        </nav>
       </details>
     </div>
   </header>
@@ -61,26 +78,25 @@
     <section class="section">
       <div class="wrap">
         <p class="eyebrow">Eksempler</p>
-        <h1>Egen nettside – ærlig start</h1>
+        <h1>Egne nettsider</h1>
         <p class="lead">Synlig14 er nytt. Her er nettsider jeg har laget selv.</p>
         <p>Vil du se mer? Jeg viser gjerne fram arbeidet mitt i en gratis samtale.</p>
         <div class="btn-row">
           <a class="btn" href="/kontakt/">Bestill en gratis samtale</a>
         </div>
 
-        <!-- TODO Willy: captura real de willymartinez.no en WebP 1200x750. -->
-        <figure class="example" style="margin-top:2rem;max-width:40rem;">
-          <img src="/img/eksempler/willymartinez.webp" width="1200" height="750" alt="Skjermbilde-placeholder av willymartinez.no" loading="lazy">
+        <figure class="example example-featured">
+          <img src="/img/eksempler/willymartinez.webp" width="1200" height="750" alt="Skjermbilde av forsiden til willymartinez.no" loading="lazy">
           <figcaption>
             <span class="tag">Egen nettside</span>
-            <h2 class="mt-0" style="font-size:1.2rem;"><a href="https://willymartinez.no">willymartinez.no</a></h2>
+            <h2 class="mt-0 example-title"><a href="https://willymartinez.no">willymartinez.no</a></h2>
             <p class="muted mb-0">Personlig side og inngang til rådgivningstjenester.</p>
           </figcaption>
         </figure>
 
         <!-- TODO Willy: añadir solo webs reales hechas por ti, con enlace y captura propia. Nada de webs de clientes sin su permiso escrito. -->
         <!--
-        <div class="grid-3" style="margin-top:2rem;">
+        <div class="grid-3 grid-3-spaced">
           <figure class="example">
             <img src="/img/eksempler/placeholder-2.webp" width="1200" height="750" alt="" loading="lazy">
             <figcaption>

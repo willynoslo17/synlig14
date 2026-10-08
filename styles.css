@@ -90,6 +90,14 @@ input:focus-visible, select:focus-visible, textarea:focus-visible {
 }
 .logo span { background: var(--lime); padding: 0 0.15em; }
 
+.nav-desktop { display: none; }
+.nav-mobile {
+  margin-left: auto;
+}
+.nav-mobile[open] {
+  flex-basis: 100%;
+  margin-left: 0;
+}
 .nav-toggle {
   border: 1px solid var(--border);
   background: var(--bg);
@@ -99,10 +107,10 @@ input:focus-visible, select:focus-visible, textarea:focus-visible {
   font-weight: 600;
   cursor: pointer;
   color: var(--text);
+  list-style: none;
 }
 .nav-toggle::-webkit-details-marker { display: none; }
-.nav-panel { width: 100%; }
-.nav-panel[open] > .nav-toggle { background: var(--soft); }
+.nav-mobile[open] > .nav-toggle { background: var(--soft); }
 .nav-list {
   list-style: none;
   margin: 0.75rem 0 0;
@@ -155,16 +163,16 @@ input:focus-visible, select:focus-visible, textarea:focus-visible {
 .btn-row { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.25rem; }
 
 @media (min-width: 860px) {
-  .nav-toggle { display: none; }
-  .nav-panel, .nav-panel[open] { display: contents; }
-  .nav-list {
+  .nav-desktop { display: block; }
+  .nav-mobile { display: none; }
+  .nav-desktop .nav-list {
     flex-direction: row;
     align-items: center;
     margin: 0;
     gap: 1rem;
   }
-  .lang { margin: 0 0 0 0.5rem; }
-  .nav-cta { margin-left: 0.25rem; }
+  .nav-desktop .lang { margin: 0 0 0 0.5rem; }
+  .nav-desktop .nav-cta { margin-left: 0.25rem; }
 }
 
 /* Typography */
@@ -476,8 +484,18 @@ figure.example {
   overflow: hidden;
   background: var(--bg);
 }
+figure.example-featured {
+  margin-top: 2rem;
+  max-width: 40rem;
+}
 figure.example img { width: 100%; aspect-ratio: 16/10; object-fit: cover; background: var(--soft); }
 figure.example figcaption { padding: 1rem 1.15rem; }
+.example-title {
+  font-size: 1.2rem;
+}
+.grid-3-spaced {
+  margin-top: 2rem;
+}
 .tag {
   display: inline-block;
   font-size: 0.8rem;
@@ -510,6 +528,11 @@ figure.example figcaption { padding: 1rem 1.15rem; }
 
 /* 404 */
 .page-404 { padding: 4rem 0; text-align: left; }
+.page-404-divider {
+  margin: 2.5rem 0;
+  border: 0;
+  border-top: 1px solid var(--border);
+}
 
 /* Utility */
 .mt-0 { margin-top: 0; }

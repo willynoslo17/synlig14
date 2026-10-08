@@ -22,7 +22,7 @@
 - [Contacto](https://synlig14.pages.dev/es/contacto/): Llamada gratis y sobre mí
 - [Privacidad](https://synlig14.pages.dev/es/privacidad/): Política de privacidad
 
-## Godkjente priser (eks. mva.)
+## Priser (eks. mva.)
 
 - Synlig 14: 14 900 kr engangspris
 - Vedlikehold: 490 kr/mnd
@@ -35,4 +35,4 @@
 - Org.nr.: 935 407 095 MVA
 - Juridisk navn: MARTINEZ LOZANO INTERNASJONAL HANDEL
 
-# TODO Willy: añadir Liten, Abonnement y AI-synlighetssjekk cuando se aprueben
+<!-- TODO Willy: añadir Liten, Abonnement y AI-synlighetssjekk cuando se aprueben -->
