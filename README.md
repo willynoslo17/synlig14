@@ -75,6 +75,6 @@ Hvis secret mangler, svarer API med `503` og skjemaet viser mailto-fallback.
 ## Kontakt
 
 - Willy Edison Martínez Lozano
-- willynoslo17@gmail.com
+- kontakt@mlinternasjonal.no
 - +47 912 90 416
 - Norbygata 19, 0187 Oslo

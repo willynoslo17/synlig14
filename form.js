@@ -25,13 +25,13 @@
     nb: {
       ok: "Takk! Jeg svarer innen 1 virkedag.",
       err:
-        'Noe gikk galt. Send heller en e-post til <a href="mailto:willynoslo17@gmail.com?subject=Synlig14">willynoslo17@gmail.com</a>.',
+        'Noe gikk galt. Send heller en e-post til <a href="mailto:kontakt@mlinternasjonal.no?subject=Synlig14">kontakt@mlinternasjonal.no</a>.',
       sending: "Sender…",
     },
     es: {
       ok: "¡Gracias! Respondo en 1 día laborable.",
       err:
-        'Algo falló. Envía un correo a <a href="mailto:willynoslo17@gmail.com?subject=Synlig14">willynoslo17@gmail.com</a>.',
+        'Algo falló. Envía un correo a <a href="mailto:kontakt@mlinternasjonal.no?subject=Synlig14">kontakt@mlinternasjonal.no</a>.',
       sending: "Enviando…",
     },
   };

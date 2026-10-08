@@ -458,23 +458,11 @@ th[scope="row"] { width: 12rem; }
   padding-top: 1.5rem;
   border-top: 1px solid var(--border);
 }
-.about-grid {
-  display: grid;
-  gap: 1.5rem;
+.about-copy {
   margin-top: 1.5rem;
+  max-width: 42rem;
 }
-@media (min-width: 700px) {
-  .about-grid { grid-template-columns: 200px 1fr; align-items: start; }
-}
-.about-photo {
-  width: 200px;
-  max-width: 100%;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  background: var(--soft);
-  aspect-ratio: 4/5;
-  object-fit: cover;
-}
+.about-copy p:last-child { margin-bottom: 0; }
 
 /* Figure / examples */
 figure.example {

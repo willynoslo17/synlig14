@@ -20,7 +20,7 @@
 
 ## Felles (footer)
 
-- Synlig14 er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Synlig14 er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Pakker og priser · Klar for AI-søk · Personvern · willymartinez.no/consulting · © 2026
 
 ## Felles (priser)
@@ -229,12 +229,12 @@ Ingen kan love at ChatGPT, Gemini eller Google nevner bedriften din. Det jeg kan
 
 ### form.js (nb)
 - Takk! Jeg svarer innen 1 virkedag.
-- Noe gikk galt. Send heller en e-post til willynoslo17@gmail.com.
+- Noe gikk galt. Send heller en e-post til kontakt@mlinternasjonal.no.
 - Sender…
 
 ### Direkte kontakt
 - Telefon: +47 912 90 416
-- E-post: willynoslo17@gmail.com
+- E-post: kontakt@mlinternasjonal.no
 - Adresse: Norbygata 19, 0187 Oslo, Norge
 
 ### Om meg
@@ -243,7 +243,7 @@ Jeg er grunnlegger av Wecrops Perú (byrå for markedsføring og videoproduksjon
 Jeg lager raske og enkle nettsider – for eksempel willymartinez.no.  
 Jeg jobber på spansk og engelsk, og på norsk med kvalitetssikrede tekster.  
 Synlig14 er en del av ML Digital. Les mer om rådgivning i internasjonal handel på willymartinez.no/consulting.  
-**Alt (placeholder):** Placeholder for bilde av Willy Edison Martínez Lozano
+*(Ingen profilbilde på siden foreløpig.)*
 
 ---
 
@@ -254,6 +254,7 @@ Synlig14 er en del av ML Digital. Les mer om rådgivning i internasjonal handel 
 **Sist oppdatert:** 8. oktober 2026
 
 Seksjoner: Behandlingsansvarlig · Hvilke opplysninger samles inn · Formål og rettslig grunnlag · Lagringstid · Databehandlere · Dine rettigheter · Cookies på denne siden · Nettsider levert til kunder  
+**Nettsider levert til kunder:** På nettsider jeg lager for kunder der sporing er avtalt, aktiveres piksler og lignende verktøy bare etter samtykke (cookie-banner).  
 (Full tekst i `/personvern/index.html`.)
 
 ---
