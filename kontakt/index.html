@@ -32,7 +32,8 @@
     ]
   }
   </script>
-  <script src="/form.js?v=2" defer></script>
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <script src="/form.js?v=3" defer></script>
 </head>
 <body>
   <a class="skip" href="#innhold">Hopp til innhold</a>
@@ -118,17 +119,16 @@
             <label for="melding">Melding</label>
             <textarea id="melding" name="melding" maxlength="4000"></textarea>
           </div>
-          <div class="hp" aria-hidden="true">
-            <label for="website">Website</label>
-            <input id="website" name="website" type="text" tabindex="-1" autocomplete="off">
-          </div>
+          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden">
+          <input type="hidden" name="ts">
           <label class="consent">
             <input type="checkbox" name="consent" required>
             <span>Jeg godtar at opplysningene mine brukes for å svare på henvendelsen. Se <a href="/personvern/">personvernerklæringen</a>.</span>
           </label>
+          <div class="cf-turnstile" data-sitekey="0x4AAAAAAFTHhaOtzzj9eenB" data-language="nb"></div>
           <button class="btn" type="submit">Send melding</button>
+          <p role="status" aria-live="polite"></p>
         </form>
-        <div id="form-status" class="form-status" hidden></div>
 
         <div class="contact-aside">
           <h2>Direkte kontakt</h2>
