@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://synlig14.pages.dev/sitemap.xml
+Sitemap: https://synlig14.no/sitemap.xml

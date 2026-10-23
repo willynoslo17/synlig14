@@ -85,12 +85,12 @@
         setStatus("Vi kunne ikke bekrefte at du er et menneske. Last inn siden på nytt og prøv igjen.");
       } else {
         setStatus(
-          "Beklager, noe gikk galt. Prøv igjen, eller send oss en e-post på kontakt@mlinternasjonal.no."
+          "Beklager, noe gikk galt. Prøv igjen, eller send oss en e-post på kontakt@synlig14.no."
         );
       }
     } catch {
       setStatus(
-        "Beklager, noe gikk galt. Prøv igjen, eller send oss en e-post på kontakt@mlinternasjonal.no."
+        "Beklager, noe gikk galt. Prøv igjen, eller send oss en e-post på kontakt@synlig14.no."
       );
     } finally {
       resetTurnstile();

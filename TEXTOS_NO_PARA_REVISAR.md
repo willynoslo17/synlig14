@@ -20,7 +20,7 @@
 
 ## Felles (footer)
 
-- Synlig14 er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
+- Synlig14 er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@synlig14.no
 - Pakker og priser · Klar for AI-søk · Personvern · willymartinez.no/consulting · © 2026
 
 ## Felles (priser)
@@ -229,12 +229,12 @@ Ingen kan love at ChatGPT, Gemini eller Google nevner bedriften din. Det jeg kan
 
 ### form.js (nb)
 - Takk! Jeg svarer innen 1 virkedag.
-- Noe gikk galt. Send heller en e-post til kontakt@mlinternasjonal.no.
+- Noe gikk galt. Send heller en e-post til kontakt@synlig14.no.
 - Sender…
 
 ### Direkte kontakt
 - Telefon: +47 912 90 416
-- E-post: kontakt@mlinternasjonal.no
+- E-post: kontakt@synlig14.no
 - Adresse: Norbygata 19, 0187 Oslo, Norge
 
 ### Om meg
@@ -286,7 +286,7 @@ Seksjoner: Behandlingsansvarlig · Hvilke opplysninger samles inn · Formål og 
 
 - Synlig14
 - nettside på 14 dager, klar for AI-søk
-- synlig14.pages.dev · ML Digital
+- synlig14.no · ML Digital
 
 ---
 

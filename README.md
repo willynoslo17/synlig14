@@ -3,7 +3,7 @@
 Nettsider for små bedrifter i Norge på 14 dager, til fast pris, på norsk og spansk.  
 Synlig14 er en del av **ML Digital** (MARTINEZ LOZANO INTERNASJONAL HANDEL, org.nr. 935 407 095 MVA).
 
-**URL midlertidig:** https://synlig14.pages.dev  
+**URL midlertidig:** https://synlig14.no  
 **Stack:** HTML + CSS + vanilla JS. Ingen build. Cloudflare Pages.
 
 ## Struktur
@@ -45,7 +45,7 @@ Alternativ uten Git-kobling:
 npx wrangler pages deploy . --project-name synlig14
 ```
 
-Hvis `synlig14.pages.dev` er opptatt, velg et annet prosjektnavn og kjør:
+Hvis `synlig14.no` er opptatt, velg et annet prosjektnavn og kjør:
 
 ```bash
 node scripts/set-base-url.mjs https://DITT-PROSJEKT.pages.dev
@@ -75,7 +75,7 @@ Hvis secret mangler, svarer API med `503` og skjemaet viser mailto-fallback.
 ## Kontakt
 
 - Willy Edison Martínez Lozano
-- kontakt@mlinternasjonal.no
+- kontakt@synlig14.no
 - +47 912 90 416
 - Norbygata 19, 0187 Oslo
 
