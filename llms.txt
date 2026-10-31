@@ -12,16 +12,35 @@
 - [Kontakt](https://synlig14.no/kontakt/): Gratis samtale og om meg
 - [Personvern](https://synlig14.no/personvern/): Personvernerklæring
 
-## Español
+## English
 
-- [Inicio](https://synlig14.no/es/): Nueva web en 14 días a precio fijo
-- [Paquetes y precios](https://synlig14.no/es/paquetes/): Liten, Synlig 14, Abonnement, Vedlikehold
-- [Lista para la búsqueda con IA](https://synlig14.no/es/lista-para-busqueda-con-ia/): Base para Google y servicios de IA
-- [Cómo funciona](https://synlig14.no/es/como-funciona/): Línea de tiempo de 14 días
-- [Ejemplos](https://synlig14.no/es/ejemplos/): Webs propias
-- [Contacto](https://synlig14.no/es/contacto/): Llamada gratis y sobre mí
-- [Privacidad](https://synlig14.no/es/privacidad/): Política de privacidad
+- [Home](https://synlig14.no/en/): New website in 14 days at a fixed price
+- [Packages and prices](https://synlig14.no/en/pakker/): Small, Synlig 14, Subscription, Maintenance
+- [Ready for AI search](https://synlig14.no/en/klar-for-ai-sok/): Foundation wall for Google and AI services
+- [This is how it happens](https://synlig14.no/en/slik-foregar-det/): 14-day timeline
+- [Examples](https://synlig14.no/en/eksempler/): Own websites
+- [Contact](https://synlig14.no/en/kontakt/): Free call and about me
+- [Privacy](https://synlig14.no/en/personvern/): Privacy statement
 
+## Svenska
+
+- [Hem](https://synlig14.no/sv/): Ny hemsida om 14 dagar till fast pris
+- [Paket och priser](https://synlig14.no/sv/pakker/): Small, Synlig 14, Prenumeration, Underhåll
+- [Redo för AI-sökning](https://synlig14.no/sv/klar-for-ai-sok/): Grundmur för Google och AI-tjänster
+- [Så här går det till](https://synlig14.no/sv/slik-foregar-det/): 14 dagars tidslinje
+- [Exempel](https://synlig14.no/sv/eksempler/): Egna hemsidor
+- [Kontakta](https://synlig14.no/sv/kontakt/): Gratis samtal och om mig
+- [Privatliv](https://synlig14.no/sv/personvern/): Sekretesspolicy
+
+## Polski
+
+- [Dom](https://synlig14.no/pl/): Nowa strona internetowa w 14 dni w stałej cenie
+- [Pakiety i ceny](https://synlig14.no/pl/pakker/): Mały, Synlig 14, subskrypcja, konserwacja
+- [Gotowy do wyszukiwania AI](https://synlig14.no/pl/klar-for-ai-sok/): Ściana fundamentowa dla usług Google i AI
+- [Tak to się dzieje](https://synlig14.no/pl/slik-foregar-det/): 14-dniowy harmonogram
+- [Przykłady](https://synlig14.no/pl/eksempler/): Własne strony internetowe
+- [Kontakt](https://synlig14.no/pl/kontakt/): Bezpłatna rozmowa i o mnie
+- [Prywatność](https://synlig14.no/pl/personvern/): Oświadczenie o ochronie prywatności
 ## Priser (eks. mva.)
 
 - Synlig 14: 14 900 kr engangspris
