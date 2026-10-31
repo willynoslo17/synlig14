@@ -1,89 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://synlig14.no/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/es/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/pakker/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/pakker/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/paquetes/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/pakker/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/es/paquetes/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/pakker/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/paquetes/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/pakker/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/klar-for-ai-sok/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/klar-for-ai-sok/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/lista-para-busqueda-con-ia/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/klar-for-ai-sok/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/es/lista-para-busqueda-con-ia/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/klar-for-ai-sok/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/lista-para-busqueda-con-ia/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/klar-for-ai-sok/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/slik-foregar-det/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/slik-foregar-det/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/como-funciona/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/slik-foregar-det/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/es/como-funciona/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/slik-foregar-det/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/como-funciona/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/slik-foregar-det/"/>
-  </url>
-  <url>
-    <loc>https://synlig14.no/eksempler/</loc>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://synlig14.no/eksempler/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/eksempler/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/ejemplos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/eksempler/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/eksempler/"/>
   </url>
-  <url>
-    <loc>https://synlig14.no/es/ejemplos/</loc>
+  <url><loc>https://synlig14.no/en/eksempler/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/eksempler/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/ejemplos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/eksempler/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/eksempler/"/>
   </url>
-  <url>
-    <loc>https://synlig14.no/kontakt/</loc>
+  <url><loc>https://synlig14.no/sv/eksempler/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/eksempler/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/eksempler/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/eksempler/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/eksempler/"/>
+  </url>
+  <url><loc>https://synlig14.no/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/"/>
+  </url>
+  <url><loc>https://synlig14.no/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/"/>
+  </url>
+  <url><loc>https://synlig14.no/sv/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/"/>
+  </url>
+  <url><loc>https://synlig14.no/klar-for-ai-sok/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/klar-for-ai-sok/"/>
+  </url>
+  <url><loc>https://synlig14.no/en/klar-for-ai-sok/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/klar-for-ai-sok/"/>
+  </url>
+  <url><loc>https://synlig14.no/sv/klar-for-ai-sok/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/klar-for-ai-sok/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/klar-for-ai-sok/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/klar-for-ai-sok/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/klar-for-ai-sok/"/>
+  </url>
+  <url><loc>https://synlig14.no/kontakt/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/kontakt/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/kontakt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/kontakt/"/>
   </url>
-  <url>
-    <loc>https://synlig14.no/es/contacto/</loc>
+  <url><loc>https://synlig14.no/en/kontakt/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/kontakt/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/kontakt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/kontakt/"/>
   </url>
-  <url>
-    <loc>https://synlig14.no/personvern/</loc>
+  <url><loc>https://synlig14.no/sv/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/kontakt/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/kontakt/"/>
+  </url>
+  <url><loc>https://synlig14.no/pakker/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/pakker/"/>
+  </url>
+  <url><loc>https://synlig14.no/en/pakker/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/pakker/"/>
+  </url>
+  <url><loc>https://synlig14.no/sv/pakker/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/pakker/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/pakker/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/pakker/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/pakker/"/>
+  </url>
+  <url><loc>https://synlig14.no/personvern/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/personvern/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/personvern/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/personvern/"/>
   </url>
-  <url>
-    <loc>https://synlig14.no/es/privacidad/</loc>
+  <url><loc>https://synlig14.no/en/personvern/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/personvern/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://synlig14.no/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/personvern/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/personvern/"/>
   </url>
-<url><loc>https://synlig14.no/vilkar/</loc></url>
+  <url><loc>https://synlig14.no/sv/personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/personvern/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/personvern/"/>
+  </url>
+  <url><loc>https://synlig14.no/slik-foregar-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/slik-foregar-det/"/>
+  </url>
+  <url><loc>https://synlig14.no/en/slik-foregar-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/slik-foregar-det/"/>
+  </url>
+  <url><loc>https://synlig14.no/sv/slik-foregar-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/slik-foregar-det/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/slik-foregar-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/slik-foregar-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/slik-foregar-det/"/>
+  </url>
+  <url><loc>https://synlig14.no/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/vilkar/"/>
+  </url>
+  <url><loc>https://synlig14.no/en/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/vilkar/"/>
+  </url>
+  <url><loc>https://synlig14.no/sv/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/vilkar/"/>
+  </url>
+  <url><loc>https://synlig14.no/pl/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://synlig14.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synlig14.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://synlig14.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://synlig14.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://synlig14.no/vilkar/"/>
+  </url>
 </urlset>
